@@ -1,0 +1,52 @@
+Director,Company,Designation,Date of appointment,DIN,Company(CIN),Source,Phone Number,Email ID
+Arjun Chowdhury,Airflow Solutions India Pvt. Ltd.,Nominee Director,14-04-2020,80712177,CIN1066765,Generated,9.18E+11,arjun@chowdhury.com
+Deepak Iyer,Airflow Solutions India Pvt. Ltd.,Managing Director,04-09-2016,99608460,CIN1066765,Generated,9.17E+11,deepak@iyer.com
+Karann Chabra,Airflow Solutions India Pvt. Ltd.,Director,11-08-2010,84141337,CIN1066765,edge case - duplicate DIN,9.19E+11,karann@chabra.com
+Kiran Kumar,Airflow Solutions India Pvt. Ltd.,Independent Director,27-09-2012,80412156,CIN1066765,Generated,9.16E+11,kiran@kumar.com
+Kiran Nair,Airflow Solutions India Pvt. Ltd.,Managing Director,24-09-2000,53433762,CIN1066765,Generated,9.20E+11,kiran@nair.com
+Meera Nair,Airflow Solutions India Pvt. Ltd.,Director,11-12-2006,92918380,CIN1066765,Generated,9.16E+11,meera@nair.com
+Neha Malhotra,Airflow Solutions India Pvt. Ltd.,Nominee Director,15-01-2003,20210553,CIN1066765,Generated,9.18E+11,neha@malhotra.com
+Priya Kumar,Airflow Solutions India Pvt. Ltd.,Nominee Director,29-01-2007,83963267,CIN1066765,Generated,9.18E+11,priya@kumar.com
+Priya Malhotra,Airflow Solutions India Pvt. Ltd.,Director,07-02-2010,70171500,CIN1066765,edge case - kin(Wife of suresh verma),9.18E+11,priya@malhotra.com
+Priya Patel,Airflow Solutions India Pvt. Ltd.,Director,30-04-2022,81485783,CIN1066765,Generated,9.18E+11,priya@patel.com
+Ramu Roy,Airflow Solutions India Pvt. Ltd.,Independent Director,21-08-2023,19421743,CIN1066765,Generated,9.16E+11,ramu@roy.com
+Ravi Patel,Airflow Solutions India Pvt. Ltd.,Managing Director,18-08-2015,40186181,CIN1066765,Generated,9.17E+11,ravi@patel.com
+Rina Chowdhury,Airflow Solutions India Pvt. Ltd.,Director,31-05-2008,84703448,CIN1066765,Generated,9.18E+11,rina@chowdhury.com
+Rina Joshi,Airflow Solutions India Pvt. Ltd.,Director,11-08-2010,84441327,CIN1066765,Generated,9.18E+11,rina@joshi.com
+Rina Sharma,Airflow Solutions India Pvt. Ltd.,Independent Director,10-02-2018,52157914,CIN1066765,Generated,9.18E+11,rina@sharma.com
+Suresh Patel,Airflow Solutions India Pvt. Ltd.,Nominee Director,28-11-2020,14435570,CIN1066765,Generated,9.17E+11,suresh@patel.com
+Arjun Nair,Akshara Fire & Safety Systems Pvt. Ltd.,Nominee Director,15-09-2006,73645105,CIN7179762,Generated,9.16E+11,arjun@nair.com
+Kiran Nair,Akshara Fire & Safety Systems Pvt. Ltd.,Nominee Director,29-10-2011,53423762,CIN7179762,Generated,9.17E+11,kiran@nair.com
+Meera Chowdhury,Akshara Fire & Safety Systems Pvt. Ltd.,Managing Director,09-02-2007,91920985,CIN7179762,Generated,9.16E+11,meera@chowdhury.com
+Meera Malhotra,Akshara Fire & Safety Systems Pvt. Ltd.,Nominee Director,07-11-2009,90341527,CIN7179762,Generated,9.18E+11,meera@malhotra.com
+Ravi Joshi,Akshara Fire & Safety Systems Pvt. Ltd.,Nominee Director,18-12-2003,32170979,CIN7179762,Generated,9.16E+11,ravi@joshi.com
+Ravi Nair,Akshara Fire & Safety Systems Pvt. Ltd.,Independent Director,24-10-2017,73530339,CIN7179762,Generated,9.18E+11,ravi@nair.com
+Rina Iyer,Akshara Fire & Safety Systems Pvt. Ltd.,Independent Director,23-08-2024,14431522,CIN7179762,Generated,9.19E+11,rina@iyer.com
+Suresh Kumar,Akshara Fire & Safety Systems Pvt. Ltd.,Director,12-02-2014,65349780,CIN7179762,Generated,9.16E+11,suresh@kumar.com
+Arjun Malhotra,Apex Interiors & Fitout India Pvt. Ltd.,Independent Director,04-12-2012,77513481,CIN5908651,Generated,9.20E+11,arjun@malhotra.com
+Arjun Sharma,Apex Interiors & Fitout India Pvt. Ltd.,Independent Director,10-10-2007,20353868,CIN5908651,Generated,9.19E+11,arjun@sharma.com
+Deepak Joshi,Apex Interiors & Fitout India Pvt. Ltd.,Nominee Director,11-08-2003,70229554,CIN5908651,Generated,9.16E+11,deepak@joshi.com
+Kiran Patel,Apex Interiors & Fitout India Pvt. Ltd.,Independent Director,12-02-2013,99965164,CIN5908651,Generated,9.18E+11,kiran@patel.com
+Kiran Reddy,Apex Interiors & Fitout India Pvt. Ltd.,Managing Director,12-08-2008,24599110,CIN5908651,Generated,9.16E+11,kiran@reddy.com
+Meera Reddy,Apex Interiors & Fitout India Pvt. Ltd.,Managing Director,25-06-2005,71079877,CIN5908651,Generated,9.17E+11,meera@reddy.com
+Neha Iyer,Apex Interiors & Fitout India Pvt. Ltd.,Managing Director,31-08-2002,64461119,CIN5908651,Generated,9.19E+11,neha@iyer.com
+Neha Patel,Apex Interiors & Fitout India Pvt. Ltd.,Independent Director,13-12-2023,57984248,CIN5908651,Generated,9.19E+11,neha@patel.com
+Priya Chowdhury,Apex Interiors & Fitout India Pvt. Ltd.,Nominee Director,15-03-2018,47140309,CIN5908651,Generated,9.18E+11,priya@chowdhury.com
+Priya Joshi,Apex Interiors & Fitout India Pvt. Ltd.,Independent Director,20-09-2004,84730715,CIN5908651,Generated,9.20E+11,priya@joshi.com
+Rina Joshi,Apex Interiors & Fitout India Pvt. Ltd.,Independent Director,25-06-2024,82241337,CIN5908651,Generated,9.17E+11,rina@joshi.com
+Rina Verma,Apex Interiors & Fitout India Pvt. Ltd.,Managing Director,19-11-2023,25087228,CIN5908651,Generated,9.18E+11,rina@verma.com
+Suresh Malhotra,Apex Interiors & Fitout India Pvt. Ltd.,Independent Director,19-06-2011,20983203,CIN5908651,Generated,9.20E+11,suresh@malhotra.com
+Amit Chowdhury,Bluewave Waterproofing Services LLP,Nominee Director,09-09-2007,98369925,LLPIN3593222,Generated,9.17E+11,amit@chowdhury.com
+Priya Kumar,Bluewave Waterproofing Services LLP,Managing Director,10-12-2002,83323267,LLPIN3593222,Generated,9.17E+11,priya@kumar.com
+Priya Patel,Bluewave Waterproofing Services LLP,Managing Director,22-12-2017,81485553,LLPIN3593222,Generated,9.19E+11,priya@patel.com
+Ravi Reddy,Bluewave Waterproofing Services LLP,Director,23-08-2016,21982513,LLPIN3593222,Generated,9.17E+11,ravi@reddy.com
+Arjun Malhotra,BrightAxis PMC & QS Services LLP,Nominee Director,19-01-2002,77514081,LLPIN4567550,Generated,9.18E+11,arjun@malhotra.com
+Deepak Malhotra,BrightAxis PMC & QS Services LLP,Independent Director,25-12-2014,22092028,LLPIN4567550,Generated,9.19E+11,deepak@malhotra.com
+Kiran Iyer,BrightAxis PMC & QS Services LLP,Managing Director,07-06-2013,12734869,LLPIN4567550,Generated,9.17E+11,kiran@iyer.com
+Kiran Patel,BrightAxis PMC & QS Services LLP,Nominee Director,28-04-2001,91165164,LLPIN4567550,Generated,9.16E+11,kiran@patel.com
+Priya Kumar,BrightAxis PMC & QS Services LLP,Nominee Director,31-10-2014,83963269,LLPIN4567550,Generated,9.18E+11,priya@kumar.com
+Priya Sharma,BrightAxis PMC & QS Services LLP,Managing Director,02-08-2002,49958465,LLPIN4567550,Generated,9.19E+11,priya@sharma.com
+Priya Verma,BrightAxis PMC & QS Services LLP,Managing Director,04-10-2002,81217633,LLPIN4567550,Generated,9.17E+11,priya@verma.com
+Rina Iyer,BrightAxis PMC & QS Services LLP,Independent Director,02-04-2015,14431512,LLPIN4567550,Generated,9.19E+11,rina@iyer.com
+Rina Verma,BrightAxis PMC & QS Services LLP,Director,25-01-2003,25087128,LLPIN4567550,Generated,9.19E+11,rina@verma.com
+Suresh Iyer,BrightAxis PMC & QS Services LLP,Independent Director,03-11-2015,65014460,LLPIN4567550,Generated,9.20E+11,suresh@iyer.com
